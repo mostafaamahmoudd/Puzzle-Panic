@@ -99,7 +99,7 @@ TextureImporter:
       213: 6057787177563429510
     second: terrain_31
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -119,6 +119,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -150,10 +152,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -169,6 +175,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -864,6 +882,39 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      terrain_2: 2963411684039260603
+      terrain_3: -4725923292034538642
+      terrain_21: -5080484574054227240
+      terrain_27: 3598512295030946487
+      terrain_5: -7381383704308568027
+      terrain_7: -602857838496182610
+      terrain_24: -8259049176156039005
+      terrain_6: 1017412213553842495
+      terrain_20: 7609452334281497406
+      terrain_19: -1586363459225789923
+      terrain_25: 4628068789037310739
+      terrain_28: -1158945311543595586
+      terrain_26: -3305269549933319577
+      terrain_4: 8517107447714677574
+      terrain_22: 8275932478496203471
+      terrain_17: 797701167787975681
+      terrain_11: -3768716606700068512
+      terrain_14: -4519485434113034234
+      terrain_18: 2939667848921997698
+      terrain_29: -7877589356744900297
+      terrain_9: 720614356373513186
+      terrain_12: 6532709478578541829
+      terrain_16: -1100723998997996794
+      terrain_8: 6875082008355445951
+      terrain_15: -9208571923464456677
+      terrain_1: -5519051278557835307
+      terrain_0: 8765297898444631108
+      terrain_10: -7304857774246764523
+      terrain_23: 8373961351952089809
+      terrain_13: 8583100498175357109
+      terrain_31: 6057787177563429510
+      terrain_30: -3405877423394438259
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
