@@ -4,77 +4,73 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    [SerializeField] private float jump = 14f;
+    [SerializeField] private float Movement = 7f;
     private Rigidbody2D rb;
+    private Animator anime;
+    private float movement;
     private SpriteRenderer sprite;
-    private Animator anim;
-    private BoxCollider2D coll;
-
-    private float dirX = 0f;
-    [SerializeField] private float moveSpeed = 7f;
-    [SerializeField] private float jumpForce = 14f;
-    [SerializeField] private LayerMask jumpableGround;
-
-    private enum MovementState { idle, running, jumping, falling}
-
-    [SerializeField] private AudioSource jumpSoundEffect;
-   
+    private enum PlayerAnimator { Player_Stop, Player_Running, Player_Jumping, Player_Falling }
+    private BoxCollider2D collid;
+    [SerializeField] private AudioSource jumpsound;
+    private PlayerAnimator State;
 
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        anim = GetComponent<Animator>();
+        anime = GetComponent<Animator>();
         sprite = GetComponent<SpriteRenderer>();
-        coll = GetComponent<BoxCollider2D>();
+        collid = GetComponent<BoxCollider2D>();
     }
-
-
-    private void Update()
+    void Update()
     {
-        dirX = Input.GetAxisRaw("Horizontal");
-        rb.velocity = new Vector2(dirX * moveSpeed, rb.velocity.y);
+        movement = Input.GetAxis("Horizontal");
+        rb.velocity = new Vector2(movement * Movement, rb.velocity.y);
 
-        if (Input.GetButtonDown("Jump") && IsGrounded())
+
+        if (Input.GetButtonDown("Jump") && Isfalls())
         {
-            jumpSoundEffect.Play();
-            rb.velocity = new Vector2 (rb.velocity.x, jumpForce);
+            rb.velocity = new Vector2(rb.velocity.x, jump);
+            jumpsound.Play();
         }
+        Animator();
 
-        UpdateAnimationState();
+
     }
-
-    private void UpdateAnimationState()
+    private void Animator()
     {
-        MovementState state;
-
-        if (dirX > 0f)
+        if (movement > 0f)
         {
-            state = MovementState.running;
+            State = PlayerAnimator.Player_Running;
             sprite.flipX = false;
+
         }
-        else if (dirX < 0f)
+        else if (movement < 0f)
         {
-            state = MovementState.running;
+            State = PlayerAnimator.Player_Running;
             sprite.flipX = true;
         }
         else
         {
-            state = MovementState.idle;
+            State = PlayerAnimator.Player_Stop;
+
+        }
+        if (rb.velocity.y > .1f)
+        {
+            State = PlayerAnimator.Player_Jumping;
+        }
+        else if (rb.velocity.y < -.1f)
+        {
+            State = PlayerAnimator.Player_Falling;
         }
 
-        if (rb.velocity.y > 0.1f)
-        {
-            state = MovementState.jumping;
-        }
-        else if (rb.velocity.y < -0.1f)
-        {
-            state = MovementState.falling;
-        }
+        anime.SetInteger("State", (int)State);
 
-        anim.SetInteger("state", (int)state);
     }
-
-    private bool IsGrounded()
+    [SerializeField] private LayerMask JumpingLayer;
+    private bool Isfalls()
     {
-        return Physics2D.BoxCast(coll.bounds.center, coll.bounds.size, 0f, Vector2.down, 0.1f, jumpableGround);
+        return Physics2D.BoxCast(collid.bounds.center, collid.bounds.size, 0f, Vector2.down, .1f, JumpingLayer);
     }
 }
+
