@@ -1,0 +1,1184 @@
+fileFormatVersion: 2
+guid: 939891d6e9e01614e8f6d09677b906ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4908764283357622123
+    second: iidle_0
+  - first:
+      213: -7505034938773400108
+    second: iidle_1
+  - first:
+      213: 2193351047930303371
+    second: iidle_2
+  - first:
+      213: 8937372574834631448
+    second: iidle_3
+  - first:
+      213: -3109784217762889488
+    second: iidle_4
+  - first:
+      213: -7488562437085888368
+    second: iidle_5
+  - first:
+      213: 8637751902856668743
+    second: iidle_6
+  - first:
+      213: -5205301644842173023
+    second: iidle_7
+  - first:
+      213: -7424446642149460531
+    second: iidle_8
+  - first:
+      213: -2500871456318653199
+    second: iidle_9
+  - first:
+      213: 7703285276671537637
+    second: iidle_10
+  - first:
+      213: -3813566524209936120
+    second: iidle_11
+  - first:
+      213: 2883846388760531791
+    second: iidle_12
+  - first:
+      213: -2429890177742778889
+    second: iidle_13
+  - first:
+      213: 5696037755310431147
+    second: iidle_14
+  - first:
+      213: -234365291957125044
+    second: iidle_15
+  - first:
+      213: -6578032679380613057
+    second: iidle_16
+  - first:
+      213: -4606709894753206961
+    second: iidle_17
+  - first:
+      213: -1874573611604217325
+    second: iidle_18
+  - first:
+      213: 8497906412754964421
+    second: iidle_19
+  - first:
+      213: 1573768895202497728
+    second: iidle_20
+  - first:
+      213: -3958267173645444955
+    second: iidle_21
+  - first:
+      213: 8097918986970702618
+    second: iidle_22
+  - first:
+      213: 9021399469978664248
+    second: iidle_23
+  - first:
+      213: 5848821695663032871
+    second: iidle_24
+  - first:
+      213: 5579113749567540642
+    second: iidle_25
+  - first:
+      213: 2572093068280391305
+    second: iidle_26
+  - first:
+      213: -3317627600092723213
+    second: iidle_27
+  - first:
+      213: -3474121271701717731
+    second: iidle_28
+  - first:
+      213: 7314471891747946642
+    second: iidle_29
+  - first:
+      213: 8105690485651816756
+    second: iidle_30
+  - first:
+      213: -1031407630791577464
+    second: iidle_31
+  - first:
+      213: -5846102923449974961
+    second: iidle_32
+  - first:
+      213: 8139144359229583509
+    second: iidle_33
+  - first:
+      213: -5061467661827481031
+    second: iidle_34
+  - first:
+      213: 3504518771388879636
+    second: iidle_35
+  - first:
+      213: 3231482539030175374
+    second: iidle_36
+  - first:
+      213: 5132333672536827057
+    second: iidle_37
+  - first:
+      213: -6378741980403279058
+    second: iidle_38
+  - first:
+      213: -4529251066757197233
+    second: iidle_39
+  - first:
+      213: -1585492271467747891
+    second: iidle_40
+  - first:
+      213: 4439251379740945869
+    second: iidle_41
+  - first:
+      213: -7261033934198677226
+    second: iidle_42
+  - first:
+      213: 9153906299796632079
+    second: iidle_43
+  - first:
+      213: 8627911788336534277
+    second: iidle_44
+  - first:
+      213: 3500930257181491239
+    second: iidle_45
+  - first:
+      213: -403352034645969528
+    second: iidle_46
+  - first:
+      213: 9089326688670767060
+    second: iidle_47
+  - first:
+      213: 8382145347573473351
+    second: iidle_48
+  - first:
+      213: 3603263274134792398
+    second: iidle_49
+  - first:
+      213: 4654034153030984569
+    second: iidle_50
+  - first:
+      213: -4853404977303197562
+    second: iidle_51
+  - first:
+      213: 7900291010996974685
+    second: iidle_52
+  - first:
+      213: -4878432555227704019
+    second: iidle_53
+  - first:
+      213: 4249443912131818596
+    second: iidle_54
+  - first:
+      213: -6336672922346756068
+    second: iidle_55
+  - first:
+      213: -1468032056018385541
+    second: iidle_56
+  - first:
+      213: 1881346445358332068
+    second: iidle_57
+  - first:
+      213: 4393315784736603669
+    second: iidle_58
+  - first:
+      213: -7175742941513043506
+    second: iidle_59
+  - first:
+      213: -9163637779171691818
+    second: iidle_60
+  - first:
+      213: 5067275082143224991
+    second: iidle_61
+  - first:
+      213: 5962842193022216427
+    second: iidle_62
+  - first:
+      213: -7317448826720358746
+    second: iidle_63
+  - first:
+      213: 1294483146750595322
+    second: iidle_64
+  - first:
+      213: -6888864047971275985
+    second: iidle_65
+  - first:
+      213: -3066885730994216610
+    second: iidle_66
+  - first:
+      213: 8159092528817256361
+    second: iidle_67
+  - first:
+      213: -8979290162257578486
+    second: iidle_68
+  - first:
+      213: 1537037379725571852
+    second: iidle_69
+  - first:
+      213: 305022797684769744
+    second: iidle_70
+  - first:
+      213: 2324362362261473533
+    second: iidle_71
+  - first:
+      213: -7620762736648958889
+    second: iidle_72
+  - first:
+      213: 496662631903411731
+    second: iidle_73
+  - first:
+      213: 7539129752323524760
+    second: iidle_74
+  - first:
+      213: 1072296856161008718
+    second: iidle_75
+  - first:
+      213: 7673156421123439658
+    second: iidle_76
+  - first:
+      213: -4364804871378557291
+    second: iidle_77
+  - first:
+      213: -616025676433846427
+    second: iidle_78
+  - first:
+      213: -1412667655415948277
+    second: iidle_79
+  - first:
+      213: 1213111673323712294
+    second: iidle_80
+  - first:
+      213: 1377973457831229555
+    second: iidle_81
+  - first:
+      213: 3051151665914938889
+    second: iidle_82
+  - first:
+      213: -7436700104870008894
+    second: iidle_83
+  - first:
+      213: 5043589101206707907
+    second: iidle_84
+  - first:
+      213: 2455985544181063193
+    second: iidle_85
+  - first:
+      213: 2481773400227673112
+    second: iidle_86
+  - first:
+      213: -5930259206612174041
+    second: iidle_87
+  - first:
+      213: 2625970514167019101
+    second: iidle_88
+  - first:
+      213: -3706362121810104540
+    second: iidle_89
+  - first:
+      213: 8660358045848347780
+    second: iidle_90
+  - first:
+      213: 530560250606144509
+    second: iidle_91
+  - first:
+      213: 8405859044885504304
+    second: iidle_92
+  - first:
+      213: 2677824554944829615
+    second: iidle_93
+  - first:
+      213: -5201538911532696627
+    second: iidle_94
+  - first:
+      213: 4529897063760721223
+    second: iidle_95
+  - first:
+      213: 1515516420516706040
+    second: iidle_96
+  - first:
+      213: 4087133992354927861
+    second: iidle_97
+  - first:
+      213: -2018342750064901218
+    second: iidle_98
+  - first:
+      213: -8460613395008122513
+    second: iidle_99
+  - first:
+      213: 7832255277581907498
+    second: iidle_100
+  - first:
+      213: -1891972981503857190
+    second: iidle_101
+  - first:
+      213: 6107548953570443645
+    second: iidle_102
+  - first:
+      213: -1449287662427875256
+    second: iidle_103
+  - first:
+      213: 3057779452972783340
+    second: iidle_104
+  - first:
+      213: 7088077775237292365
+    second: iidle_105
+  - first:
+      213: -5716564944395502527
+    second: iidle_106
+  - first:
+      213: 4719187929894101788
+    second: iidle_107
+  - first:
+      213: 5676409575298000068
+    second: iidle_108
+  - first:
+      213: 8731114184282324713
+    second: iidle_109
+  - first:
+      213: -241058035030015550
+    second: iidle_110
+  - first:
+      213: -2999488264495520740
+    second: iidle_111
+  - first:
+      213: 1560037297187482114
+    second: iidle_112
+  - first:
+      213: -6492942170453512354
+    second: iidle_113
+  - first:
+      213: 4482804101933696657
+    second: iidle_114
+  - first:
+      213: 1550727112921250168
+    second: iidle_115
+  - first:
+      213: -4847242154975226983
+    second: iidle_116
+  - first:
+      213: 9082477519231484443
+    second: iidle_117
+  - first:
+      213: 424077307402172219
+    second: iidle_118
+  - first:
+      213: 5698385670772055946
+    second: iidle_119
+  - first:
+      213: 4428961833314589271
+    second: iidle_120
+  - first:
+      213: -1443413021004233935
+    second: iidle_121
+  - first:
+      213: -9086496258421928775
+    second: iidle_122
+  - first:
+      213: -6025936756422004590
+    second: iidle_123
+  - first:
+      213: -2622902695519574904
+    second: iidle_124
+  - first:
+      213: -9218698349351819801
+    second: iidle_125
+  - first:
+      213: -7480419527517559125
+    second: iidle_126
+  - first:
+      213: 4781249108182678264
+    second: iidle_127
+  - first:
+      213: -8766626105941402831
+    second: iidle_128
+  - first:
+      213: 3715276399180418905
+    second: iidle_129
+  - first:
+      213: -1359174597170950868
+    second: iidle_130
+  - first:
+      213: 4566083463585369535
+    second: iidle_131
+  - first:
+      213: 6652993701556173668
+    second: iidle_132
+  - first:
+      213: 2046303716723851011
+    second: iidle_133
+  - first:
+      213: -319847973386401089
+    second: iidle_134
+  - first:
+      213: 7291601012187546391
+    second: iidle_135
+  - first:
+      213: -7259200224383368447
+    second: iidle_136
+  - first:
+      213: 4323829721907542990
+    second: iidle_137
+  - first:
+      213: 6804070514478915498
+    second: iidle_138
+  - first:
+      213: -7341076853132425799
+    second: iidle_139
+  - first:
+      213: 4301216871344489229
+    second: iidle_140
+  - first:
+      213: -8055029804731043179
+    second: iidle_141
+  - first:
+      213: -6597278903815750783
+    second: iidle_142
+  - first:
+      213: -5811453530854559571
+    second: iidle_143
+  - first:
+      213: -873692451498191718
+    second: iidle_144
+  - first:
+      213: -6442548337143642821
+    second: iidle_145
+  - first:
+      213: 1616751233755822551
+    second: iidle_146
+  - first:
+      213: -2250504917415049452
+    second: iidle_147
+  - first:
+      213: 6844394989809780613
+    second: iidle_148
+  - first:
+      213: 3626935189825046171
+    second: iidle_149
+  - first:
+      213: 3128774332060959225
+    second: iidle_150
+  - first:
+      213: -2114757618610484245
+    second: iidle_151
+  - first:
+      213: -1010329190904545108
+    second: iidle_152
+  - first:
+      213: 334565706905549206
+    second: iidle_153
+  - first:
+      213: 3082236686265362086
+    second: iidle_154
+  - first:
+      213: -3708578364359640969
+    second: iidle_155
+  - first:
+      213: -1578868618669010598
+    second: iidle_156
+  - first:
+      213: -7069115589308921989
+    second: iidle_157
+  - first:
+      213: 8683944592655359505
+    second: iidle_158
+  - first:
+      213: 4912539942278684953
+    second: iidle_159
+  - first:
+      213: -2995570915838539909
+    second: iidle_160
+  - first:
+      213: 443676572785449986
+    second: iidle_161
+  - first:
+      213: 7247650229882608722
+    second: iidle_162
+  - first:
+      213: -5139512753489443684
+    second: iidle_163
+  - first:
+      213: -6658997194503560618
+    second: iidle_164
+  - first:
+      213: -467402483772839175
+    second: iidle_165
+  - first:
+      213: 3218709961676477406
+    second: iidle_166
+  - first:
+      213: 2020099560261841895
+    second: iidle_167
+  - first:
+      213: -1356213131056287301
+    second: iidle_168
+  - first:
+      213: -1948997245615223378
+    second: iidle_169
+  - first:
+      213: 6803581994450673607
+    second: iidle_170
+  - first:
+      213: -3365929342525985927
+    second: iidle_171
+  - first:
+      213: 2710212984959945426
+    second: iidle_172
+  - first:
+      213: -7595987837410859825
+    second: iidle_173
+  - first:
+      213: 3117932707311444089
+    second: iidle_174
+  - first:
+      213: 953058260121861542
+    second: iidle_175
+  - first:
+      213: 8451059602028726716
+    second: iidle_176
+  - first:
+      213: 7450006426501733473
+    second: iidle_177
+  - first:
+      213: -2150225105904775204
+    second: iidle_178
+  - first:
+      213: -5499986889037845928
+    second: iidle_179
+  - first:
+      213: 3361214111680927557
+    second: iidle_180
+  - first:
+      213: 4490177028180077765
+    second: iidle_181
+  - first:
+      213: 4034616579925985340
+    second: iidle_182
+  - first:
+      213: 1485204519121674679
+    second: iidle_183
+  - first:
+      213: 3810284696282500099
+    second: iidle_184
+  - first:
+      213: -4938797848362564177
+    second: iidle_185
+  - first:
+      213: -3981226514103793331
+    second: iidle_186
+  - first:
+      213: -3593276572714913099
+    second: iidle_187
+  - first:
+      213: -3643025458481792425
+    second: iidle_188
+  - first:
+      213: -4831500841856541939
+    second: iidle_189
+  - first:
+      213: 2608092930497945033
+    second: iidle_190
+  - first:
+      213: -6510828302836140134
+    second: iidle_191
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: iidle_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590185c54e090ebb0800000000000000
+      internalID: -4908764283357622123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5148f8c72c8d790800000000000000
+      internalID: -7505034938773400108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83dd9f3829507e10800000000000000
+      internalID: 2193351047930303371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813265c210de70c70800000000000000
+      internalID: 8937372574834631448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f08024fab3d7d4d0800000000000000
+      internalID: -3109784217762889488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_5
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090892bb328431890800000000000000
+      internalID: -7488562437085888368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_6
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746e9b347957fd770800000000000000
+      internalID: 8637751902856668743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_7
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adfc6e9bbd03c7b0800000000000000
+      internalID: -5205301644842173023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_8
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5f6d88d1117f890800000000000000
+      internalID: -7424446642149460531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_9
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc763129ae1b4dd0800000000000000
+      internalID: -2500871456318653199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_10
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1f087352197ea60800000000000000
+      internalID: 7703285276671537637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_11
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809452d837d731bc0800000000000000
+      internalID: -3813566524209936120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_12
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f435dd4e20b750820800000000000000
+      internalID: 2883846388760531791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_13
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd4e68e1cb474ed0800000000000000
+      internalID: -2429890177742778889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_14
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babdd78d8246c0f40800000000000000
+      internalID: 5696037755310431147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_15
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c400739320e5fbcf0800000000000000
+      internalID: -234365291957125044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_16
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f388b98412226b4a0800000000000000
+      internalID: -6578032679380613057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_17
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d35f312cda110c0800000000000000
+      internalID: -4606709894753206961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_18
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312720f6b3d2cf5e0800000000000000
+      internalID: -1874573611604217325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_19
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf06cacbd0aee570800000000000000
+      internalID: 8497906412754964421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_20
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c49a15d87627d510800000000000000
+      internalID: 1573768895202497728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_21
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a816c43af86119c0800000000000000
+      internalID: -3958267173645444955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_22
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13a74ef966916070800000000000000
+      internalID: 8097918986970702618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iidle_23
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 28
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83db9f04503723d70800000000000000
+      internalID: 9021399469978664248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
