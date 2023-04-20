@@ -72,5 +72,19 @@ public class PlayerMovement : MonoBehaviour
     {
         return Physics2D.BoxCast(collid.bounds.center, collid.bounds.size, 0f, Vector2.down, .1f, JumpingLayer);
     }
+    [SerializeField] private GameObject plane;
+
+    private void OnTriggerEnter2D(Collider2D collider2D)
+    {
+        if (collider2D.gameObject.CompareTag("Machine"))
+        {
+            if (Input.GetKeyDown(KeyCode.UpArrow))
+        {
+            
+                gameObject.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;
+                plane.SetActive(true);
+        }
+        }
+    }
 }
 
