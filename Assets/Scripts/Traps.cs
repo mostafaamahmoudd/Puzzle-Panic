@@ -15,9 +15,21 @@ public class Traps : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Trap"))
+        if (gameObject.CompareTag("Player"))
         {
-            Die();
+            if (collision.gameObject.CompareTag("Trap")|| collision.gameObject.CompareTag("PLayer"))
+            {
+
+                Die();
+            }
+        }
+        else if (gameObject.CompareTag("PLayer"))
+        {
+            if (collision.gameObject.CompareTag("Trap"))
+            {
+
+                Destroy(gameObject, time);
+            }
         }
     }
     private void Die()
@@ -27,11 +39,14 @@ public class Traps : MonoBehaviour
         Deathsound.Play();
 
     }
-
+   
+    public int gameover = 2;
+    public int time = 2;
     private void Reatart()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            SceneManager.LoadScene(gameover);
     }
+    
 
 }
 

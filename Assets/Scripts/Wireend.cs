@@ -23,11 +23,11 @@ public class Wireend : MonoBehaviour
     [SerializeField] private GameObject mach1;
 
 
-
+    public int cor = 19;
     public void puzzleManeger()
     {
         correctingwire += 1;
-        if (correctingwire == allwires && correctingwire == 23)
+        if (correctingwire == cor)
         {
             Player.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Dynamic;
             
