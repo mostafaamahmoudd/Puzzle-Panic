@@ -81,6 +81,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Fonts\Loved_by_the_King\OFL.txt" />
+    <None Include="Assets\Sound\CasualGameBGM05\ReadMe.txt" />
     <None Include="Assets\Fonts\Rubik_Glitch\OFL.txt" />
     <None Include="Assets\Fonts\Bruno_Ace\OFL.txt" />
     <None Include="Assets\Fonts\Goldman\OFL.txt" />
